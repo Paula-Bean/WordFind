@@ -10,7 +10,7 @@ How to use
 
 
 
-This software will be used in my upcoming crossword fitting program. The regexp library was a too slow for my recursive backtracking algorithm, so I came up with an idea to use multiple indexes and set intersections to quickly find words of which a few letters are already known.
+This software will be used in my upcoming crossword fitting program. The regexp library was too slow for my recursive backtracking algorithm, so I came up with an idea to use multiple indexes and set intersections to quickly find words of which a few letters are already known.
 
 ```
 k o f f . c h a r s h a f
